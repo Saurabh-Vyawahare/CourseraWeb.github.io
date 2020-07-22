@@ -1,1 +1,0 @@
-# To see the output of module1s [CLICK HERE](https://ovodeadshot.github.io/CourseraWeb.github.io/module1/index.html)
